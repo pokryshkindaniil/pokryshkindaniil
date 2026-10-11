@@ -1,46 +1,43 @@
-# Hey, I'm Daniil
+# Daniil Pokryshkin
 
-**Data Scientist | Data Analyst | Aspiring iOS Developer**  
-📚 Master's in Data Analytics in Economics (2nd year)  
-💡 Turning data into insights, and ideas into products.
+**Data Analyst | Python & SQL | Risk & Product Analytics**
 
+I use data to understand problems, define useful metrics, and build tools that make information easier to work with. My main interests are financial risk analytics, data products, and applied machine learning.
 
-## 🏆 Achievements
+I'm also a postgraduate student at Northern (Arctic) Federal University, researching risk-aware planning for autonomous mobile systems.
 
-**Captain** of [Arctic Data Force](https://github.com/Arctic-Data-Force) — led the team to success in multiple AI hackathons:  
-- 🥇 **1st Place** – Digital Breakthrough: AI (North-West Federal District, 2023 & 2024)  
-- 🥉 **3rd Place** – Digital Breakthrough: AI (All-Russian, 2023)  
-- 📍 **Top 4** – Digital Breakthrough: AI (Ural Federal District, 2023)  
+## Selected projects
 
+### [Credit Portfolio Risk Analytics](https://github.com/pokryshkindaniil/credit-portfolio-risk-analytics)
+*PostgreSQL · SQL · Metabase*
 
-## 🛠 Tech Stack
+- Modelled a synthetic lending portfolio and built a contract-level analytical mart.
+- Analysed delinquency, DPD 30+/90+, Portfolio at Risk, payment behaviour, and risk segments.
+- Created a three-tab dashboard, documented metric definitions, and added data-quality checks.
 
-**Languages & Tools:**  
-Python • Pandas • NumPy • SQL • FastAPI • Streamlit • Jinja2 • Docker • Swift (beginner)  
+### [GRIDLINE](https://github.com/pokryshkindaniil/gridline)
+*Python · FastAPI · Next.js · PostgreSQL · GitHub Actions*
 
-**Specialties:**  
-Data Analytics • Data Visualization • Machine Learning • A/B Testing • Hackathon Leadership
+- Built a [live motorsport calendar](https://gridline-motorsport.vercel.app) with subscriptions for individual race sessions.
+- Implemented official schedule ingestion, stable event identities, update tracking, and iCalendar feeds.
+- Deployed the product with scheduled synchronisation and documented its architecture and operations.
 
+## Tools & skills
 
-## 📊 GitHub at a Glance
+- **Analytics:** SQL, PostgreSQL, Python, pandas, NumPy, data modelling, metric design, Metabase.
+- **Engineering:** FastAPI, Docker, Git, GitHub Actions, Next.js.
+- **Applied ML:** machine learning, NLP, clustering, and embeddings.
 
-<!-- Stats -->
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pokryshkindaniil&show_icons=true&bg_color=FFFFFF&title_color=0A66C2&text_color=2E3A59&icon_color=0A66C2&border_color=E4E2E2"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokryshkindaniil&layout=compact&bg_color=FFFFFF&title_color=0A66C2&text_color=2E3A59&border_color=E4E2E2"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+## Hackathons
 
-## 📫 Let's Connect
+I captained the [Arctic Data Force](https://github.com/Arctic-Data-Force) team in AI competitions:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pokryshkin-daniil)  
-📧 **pokryshkin.daniil@gmail.com**
+- **1st place**, Digital Breakthrough: AI, North-West Federal District (2023 and 2024).
+- **3rd place**, Digital Breakthrough: AI, all-Russian competition (2023).
+- **Top 4**, Digital Breakthrough: AI, Ural Federal District (2023).
 
-💡 *I’m open to Data Analytics, Data Science, and ML roles. Let’s create something amazing together.*
+## Contact
+
+I'm interested in **Data Analyst, Product Analyst, and Risk Analyst** roles.
+
+[LinkedIn](https://www.linkedin.com/in/pokryshkin-daniil) · [Email](mailto:pokryshkin.daniil@gmail.com)
