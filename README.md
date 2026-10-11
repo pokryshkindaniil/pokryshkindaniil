@@ -1,46 +1,36 @@
-# Hey, I'm Daniil
+# Daniil Pokryshkin
 
-**Data Scientist | Data Analyst | Aspiring iOS Developer**  
-📚 Master's in Data Analytics in Economics (2nd year)  
-💡 Turning data into insights, and ideas into products.
+**Data Analyst | Python · SQL · Machine Learning**
 
+Working with data analytics, automation, and AI-powered applications. Postgraduate researcher at Northern (Arctic) Federal University.
 
-## 🏆 Achievements
+## Projects
 
-**Captain** of [Arctic Data Force](https://github.com/Arctic-Data-Force) — led the team to success in multiple AI hackathons:  
-- 🥇 **1st Place** – Digital Breakthrough: AI (North-West Federal District, 2023 & 2024)  
-- 🥉 **3rd Place** – Digital Breakthrough: AI (All-Russian, 2023)  
-- 📍 **Top 4** – Digital Breakthrough: AI (Ural Federal District, 2023)  
+- **[Credit Portfolio Risk Analytics](https://github.com/pokryshkindaniil/credit-portfolio-risk-analytics)** — Credit risk metrics, SQL data marts, and Metabase dashboards.
+- **[InvestAtlas](https://github.com/InvestAtlas)** — SME financing platform with data pipelines, semantic search, and RAG.
+- **[GRIDLINE](https://github.com/pokryshkindaniil/gridline)** — Open-source motorsport calendar with automated data synchronisation. [Live](https://gridline-motorsport.vercel.app)
 
+## Skills & Tools
 
-## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Languages & Tools:**  
-Python • Pandas • NumPy • SQL • FastAPI • Streamlit • Jinja2 • Docker • Swift (beginner)  
+SQL · Data Modelling · Analytics · NLP · RAG · AI-assisted Development
 
-**Specialties:**  
-Data Analytics • Data Visualization • Machine Learning • A/B Testing • Hackathon Leadership
+## Achievements
 
+Captain of [Arctic Data Force](https://github.com/Arctic-Data-Force). Two-time regional winner (2023, 2024) and national bronze medallist (2023) at Digital Breakthrough: AI.
 
-## 📊 GitHub at a Glance
+## GitHub Stats
 
-<!-- Stats -->
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pokryshkindaniil&show_icons=true&bg_color=FFFFFF&title_color=0A66C2&text_color=2E3A59&icon_color=0A66C2&border_color=E4E2E2"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokryshkindaniil&layout=compact&bg_color=FFFFFF&title_color=0A66C2&text_color=2E3A59&border_color=E4E2E2"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+| GitHub Stats | Top Languages |
+| --- | --- |
+| ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pokryshkindaniil&show_icons=true&hide_border=true) | ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=pokryshkindaniil&layout=compact&hide_border=true&hide=html) |
 
-## 📫 Let's Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pokryshkin-daniil)  
-📧 **pokryshkin.daniil@gmail.com**
-
-💡 *I’m open to Data Analytics, Data Science, and ML roles. Let’s create something amazing together.*
+[LinkedIn](https://www.linkedin.com/in/pokryshkin-daniil) · [Email](mailto:pokryshkin.daniil@gmail.com)
