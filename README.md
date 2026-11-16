@@ -1,8 +1,11 @@
+
 # Daniil Pokryshkin
 
 **Data Analyst | Python · SQL · Machine Learning**
 
 Working with data analytics, automation, and AI-powered applications. Postgraduate researcher at Northern (Arctic) Federal University.
+
+**[Personal Website & Blog](https://daniil-portfolio-roan.vercel.app)** · [Articles](https://daniil-portfolio-roan.vercel.app/blog)
 
 ## Projects
 
@@ -33,4 +36,4 @@ Captain of [Arctic Data Force](https://github.com/Arctic-Data-Force). Two-time r
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/pokryshkin-daniil) · [Email](mailto:pokryshkin.daniil@gmail.com)
+[Website](https://daniil-portfolio-roan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/pokryshkin-daniil) · [Email](mailto:pokryshkin.daniil@gmail.com)
